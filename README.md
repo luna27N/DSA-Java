@@ -7,7 +7,7 @@ A structured collection of Data Structures & Algorithms problems in Java, solved
 Problems are organized by algorithmic pattern rather than difficulty, to reinforce pattern recognition during interviews.
 
 ```
-javapractice/
+src/
 ├── twopointers/
 │   ├── ContainerWithMostWater.java
 │   ├── MergeSortedArray.java
