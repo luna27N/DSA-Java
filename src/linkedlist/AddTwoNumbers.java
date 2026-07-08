@@ -36,7 +36,7 @@ public class AddTwoNumbers {
         return dummyHead.next;
     }
 
-    // for local testing
+    
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2, new ListNode(4, new ListNode(3))); // 342
         ListNode l2 = new ListNode(5, new ListNode(6, new ListNode(4))); // 465
@@ -47,6 +47,6 @@ public class AddTwoNumbers {
             System.out.print(result.val + " ");
             result = result.next;
         }
-        // Expected output: 7 0 8  (represents 807)
+        
     }
 }
